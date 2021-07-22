@@ -11,5 +11,4 @@ Sample website with plenty of files for demos
 this is a changed verzion with a purpose to simulate git workflow and synergy with github
 
 comparison practice
-
 changes made on master branch on puarpose to make the conflict with an other branch
