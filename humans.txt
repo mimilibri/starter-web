@@ -2,9 +2,7 @@
 # The humans responsible & technology colophon// edited on testbranch
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+    Milovan Mihajlovic mimamihajlovic@ hotmail.com
 # THANKS
 
     <name>
